@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mysshe3"
+  id="myeclipse.1405942786961"
+  context-root="/mysshe3"
+  j2ee-spec="6.0"
+  archive="mysshe3.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
